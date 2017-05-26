@@ -17,7 +17,7 @@
         <p class="control">
           เกรด
           <span class="select">
-            <select v-model="subject.grade" placeholder="เกรด">
+            <select v-model="subject.grade">
               <option>A</option>
               <option>B+</option>
               <option>B</option>
